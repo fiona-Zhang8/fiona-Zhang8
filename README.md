@@ -41,17 +41,6 @@
 
 ---
 
-<details>
-<summary>📊 GitHub Stats (for fun)</summary>
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fiona-Zhang8&show_icons=true&title_color=333333&icon_color=FF8FB1&text_color=555555&bg_color=FFFFFF" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiona-Zhang8&layout=compact&title_color=333333&text_color=555555&bg_color=FFFFFF" />
-</p>
-
-</details>
-
----
 ### 🌸 Currently…
 
 - ✍️ Working on my Master’s thesis  
