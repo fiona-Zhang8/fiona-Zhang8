@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuxi Zhang (Fiona)</h1>
 <h3 align="center">MS student in Animal Breeding and Genetics @ University of Florida</h3>
 
-- 🔭 I’m currently a research assistant [AIAOS lab at University of Florida](https://uf-aiaos.github.io/team/)
+- 🔭 I’m currently a research assistant in [AIAOS lab at University of Florida](https://uf-aiaos.github.io/team/)
 
 - 🌱 I’m currently learning: **deep learning, computer vision**
 
