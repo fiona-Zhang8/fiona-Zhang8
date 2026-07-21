@@ -18,6 +18,8 @@
 
 ### 🎇 Good News
 - I successfully defended my master's thesis!
+  
+---
 
 ### 🔬 Research Interests
 - Genomic prediction & model validation  
