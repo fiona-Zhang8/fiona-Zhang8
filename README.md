@@ -16,6 +16,9 @@
 
 ---
 
+### 🎇 Good News
+- I successfully defended my master's thesis!
+
 ### 🔬 Research Interests
 - Genomic prediction & model validation  
 - Quantitative genetics (BLUP, GBLUP, LR method) 
@@ -42,9 +45,7 @@
 
 ---
 
-### 🌸 Currently…
-
-- ✍️ Working on my Master’s thesis  
+### 🌸 Currently… 
 - 📈 Exploring more in genomic prediction  
 - 🧠 Slowly but happily learning more coding every day 
 
