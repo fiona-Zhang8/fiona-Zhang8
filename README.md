@@ -7,7 +7,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🐄 MS student in **Animal Breeding & Genetics** @ University of Florida
+- 🐄 First year PhD student in **Animal Breeding & Genetics** @ University of Florida
+- 🐂 Got my Master's degree in **Animal Sciences** @ University of Florida
 - 🐟 Earned my Bachelor's degree in **Zoology** @ University of Wisconsin - Madison
 - 🧬 Interested in **genomic prediction** and **quantitative genetics**  
 - 💻 Learning **Julia, R, Python**, and a bit of ML / computer vision  
